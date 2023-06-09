@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "KIM GYEONGNAM"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/myprofile.jpg"
   bio              : "I wanna get a job"
   location         : "INCHEON, SOUTH KOREA"
   email            :
